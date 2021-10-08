@@ -1,12 +1,12 @@
-![Working!](https://img.shields.io/badge/Status-Working-brightgreen)
+![Working!]
 
 # Simple JSON/XML Web Data Connector
 
-Built by [Keshia Rose](https://twitter.com/KroseKeshia)
+Built by [Keshia Rose]
 
-This is a simple [Web Data Connector](https://tableau.github.io/webdataconnector/docs/) for JSON and XML files, text, and URLs.
+This is a simple [Web Data Connector] for JSON and XML files, text, and URLs.
 
-URL: `https://json-xml-wdc.herokuapp.com/`
+URL: `https://boundarywebdataconnector.herokuapp.com/
 
 Simply paste in your URL or data or just drag and drop a file.
 
@@ -31,15 +31,15 @@ I've noticed that there are a lot of people asking in our [community forums](htt
 
 I suggest deploying your own version of this WDC so you can have a dedicated application for your own use. Here are a few options for spinning up your own:
 
-1. [Deploy it on Heroku](https://heroku.com/deploy?template=https://github.com/KeshiaRose/json-xml-wdc)
-1. [Remix it on glitch](https://glitch.com/edit/#!/remix/json-xml-wdc)
+1. [Deploy it on Heroku]
+1. [Remix it on glitch]
 
 Or you could host it locally by doing the following:
 
 1. Install [Node.js](https://nodejs.org).
-1. [Clone](https://github.com/KeshiaRose/JSON-XML-WDC) or download and unzip this repository.
+1. [Clone](https://github.com/aniketsinghrajput/webdataconnector) or download and unzip this repository.
 1. Open the command line within the `JSON-XML-WDC` master folder and run `npm install` to install the node modules.
-1. Then run `npm start` to start the web server or use something like [pm2](https://pm2.keymetrics.io/) for a production environment.
+1. Then run `npm start` to start the web server or use something like [pm2]for a production environment.
 
 ## How to refresh
 
